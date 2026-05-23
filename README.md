@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there, I'm Gandi! 👋
 
-<!--
-**GandiTypo/GandiTypo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Trying to build cool stuff ✨🚀
 
-Here are some ideas to get you started:
+Beginner developer who enjoys building utility tools, experimenting with random ideas, and customizing desktop experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Student learning programming and software development
+- 💻 Currently focused on C++
+- 🛠 Interested in utility tools and system-related projects
+- 🎨 Enjoy clean UI and desktop customization
+- 🧩 Problem solver who likes experimenting with new ideas
+
+## Tech Stack
+
+- C++
+- VS Code
+- DaVinci Resolve
+- Git & GitHub
+- Windows
+
+## Interests
+
+- Software Development
+- UI/UX
+- System Utilities
+- Desktop Customization
+
+---
+
+Thanks for visiting my profile 🙂
